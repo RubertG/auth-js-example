@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# auth-js-example
+
+This is an example of how to use the auth-js v5 library.
 
 ## Getting Started
 
